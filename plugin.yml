@@ -1,0 +1,11 @@
+main: io.github.jankcow.jeco.main
+name: JEco
+version: 0.1
+author: Jankcow
+description: An Example plugin
+commands:
+    mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: jeco.mycommand
+    permission-message: You don't have the jeco.mycommand permission.
